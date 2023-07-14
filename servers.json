@@ -1,8 +1,8 @@
 [
     {
-      "x2": "false",
+      "x2": "true",
       "name": "BrasileirosOnline City",
-      "online": 1,
+      "online": 0,
       "maxonline": 150
     }
  ]
