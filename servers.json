@@ -1,8 +1,8 @@
 [
     {
-      "x2": "true",
-      "name": "BrasileirosOnline City",
-      "online": 0,
-      "maxonline": 150
+      "x2": "false",
+      "name": "Tocantins RolePlay",
+      "online": "Jogadores",
+      "maxonline": "Online"
     }
  ]
