@@ -1,8 +1,9 @@
 [
     {
-      "x2": "false",
-      "name": "Tocantins RolePlay",
-      "online": "Jogadores",
-      "maxonline": "Online"
+      "color: 005780,
+      "dropname": "RolePlay"
+      "name": "Tocantins",
+      "online": 0,
+      "maxonline": 0
     }
  ]
